@@ -1,0 +1,15 @@
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\BookStoreTests.dll.config
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\BookStoreTests.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\BookStoreTests.pdb
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\obj\Debug\BookStoreTests.csprojAssemblyReference.cache
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\obj\Debug\BookStoreTests.csproj.CoreCompileInputs.cache
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\obj\Debug\BookStoreTests.csproj.CopyComplete
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\obj\Debug\BookStoreTests.dll
+C:\Users\muoih\Source\Repos\agile-project2\UnitTestLoginPage\obj\Debug\BookStoreTests.pdb

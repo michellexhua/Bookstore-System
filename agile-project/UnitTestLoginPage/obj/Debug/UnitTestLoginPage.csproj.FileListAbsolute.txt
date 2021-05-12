@@ -1,0 +1,15 @@
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csprojAssemblyReference.cache
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.dll.config
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\UnitTestLoginPage.pdb
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.csproj.CopyComplete
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.dll
+C:\Users\hassa\Desktop\Stuff\4220\haLoginPage\UnitTestLoginPage\obj\Debug\UnitTestLoginPage.pdb

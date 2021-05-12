@@ -1,0 +1,9 @@
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\bin\Debug\netstandard2.0\BookStoreDomain.deps.json
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\bin\Debug\netstandard2.0\BookStoreDomain.dll
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\bin\Debug\netstandard2.0\BookStoreDomain.pdb
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.csprojAssemblyReference.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.AssemblyInfoInputs.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.AssemblyInfo.cs
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.dll
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDomain\obj\Debug\netstandard2.0\BookStoreDomain.pdb

@@ -1,0 +1,15 @@
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDAL.dll.config
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDAL.deps.json
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDAL.dll
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDAL.pdb
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDomain.dll
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\bin\Debug\netstandard2.0\BookStoreDomain.pdb
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.csprojAssemblyReference.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.Properties.Resources.resources
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.csproj.GenerateResource.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.AssemblyInfoInputs.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.AssemblyInfo.cs
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.csproj.CoreCompileInputs.cache
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.csproj.CopyComplete
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.dll
+C:\Users\muoih\Source\Repos\agile-project2\BookStoreDAL\obj\Debug\netstandard2.0\BookStoreDAL.pdb
